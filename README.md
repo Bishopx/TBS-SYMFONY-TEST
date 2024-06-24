@@ -8,3 +8,5 @@ Par étapes j'ai:
 - Créé les repositories
 - Créé le controller qui effectue les actions et qui renvoie systématiquement un json de résultat
 - Créé une Datafixture qui créé un set de donnée factice.
+
+PS: les jointures entre les tables subscription et contact et produit sont en OneToOne.
